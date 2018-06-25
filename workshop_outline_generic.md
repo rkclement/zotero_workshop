@@ -9,44 +9,49 @@
         3. Word/LibreOffice plugins
 2. Installing Zotero
     1. Go to [https://www.zotero.org/download/](https://www.zotero.org/download/)
-    1. Install the Zotero app (e.g. "Zotero 5.0 for Mac") 
-Make sure you have the browser extension(s) that you need
-Problems with Safari plugin
-Create a free account
-Sign in to this account once you open Zotero
-We’ll do more with this later
-Getting stuff into Zotero - 
-Dump some PDFs in - folder on desktop
-Show “retrieve metadata”
-Show “create parent item”
-Have open
-Google Scholar
-JSTOR
-Amazon
-PhilPapers
-NY Times
-YouTube: https://youtu.be/oFeoS41xe7w 
-FOR FYSE 1496
-https://www.amazon.com/Presentation-Zen-Simple-Design-Delivery/dp/0321811984
-Fear of Knowledge http://biblio.middlebury.edu/record=b1856936~S2
-Moral Relativism: A Reader. http://biblio.middlebury.edu/record=b1564960~S2
-Writing Philosophy Papers (5th edition, search Amazon)
-Google Scholar
-Wiredu, Kwasi. 1998. "The Concept of Truth in the Akan Language." In 2003. The African Philosophy Reader: A Text with Readings, edited by Coetzee, P. H., and A. P. J. Roux, 234-239. New York: Routledge
-JSTOR
-"The Seven Sexes: A Study in the Sociology of a Phenomenon, or the Replication of Experiments in Physics.”
-PhilPapers
-“In Defense of Epistemic Relativism.”
-MIDCAT again
-Hill Collins, Patricia. 2000. “Black Feminist Epistemology,” Ch. 11 in Black Feminist Thought: Knowledge, Consciousness, and the Politics of Empowerment. New York: Routledge. (use book, and then go to book section)
-Metadata - it is only as good as the database, so check it
-Set up an example with something wrong
-Notes - for your annotated bibliography?  
-(in abstract for APA, in extra for Chicago)
-Tags & relations
-Organize it into folders
-Creating from scratch
-Getting stuff out of zotero
+    2. Install the Zotero app (e.g. "Zotero 5.0 for Mac") 
+    3. Make sure you have the browser extension(s) that you need
+        1. Problems with Safari extension - doesn't work as well as Chrome or Firefox extensions - use those instead, if you can
+        2. Currently no extension for IE/Edge or mobile broswers, but there is a [bookmarklet](https://www.zotero.org/downloadbookmarklet) that will work for these, without all the features
+    4. Create a free account
+        1. Sign in to this account once you open Zotero
+        2. We’ll do more with this later
+3. Getting stuff into Zotero
+    1. Dump some PDFs in - have folder on desktop
+        1. Show “retrieve metadata” (works automatically now)
+        2. Talk about how this works (file needs to be OCR'd PDF, needs to be something that would be on Google Scholar)
+    2. Show “create parent item”
+        1. You can now manually enter information
+        2. Show different item types - changes the fields available and what they are named
+        3. Show that you don't need to fill in **all** fields (i.e. only need ones that are necessary for citation)
+        4. Show how to add multiple authors, change between author/editor/translator, and change beteween `last, first` and corporate author
+    3. Have open to show browser extension:
+        1. Google Scholar
+        2. JSTOR (**important** to show that you need to agree to JSTOR TOS **first** before you can download PDFs automatically)
+        3. Amazon (good for finding book metadata)
+        4. NY Times (or other relevant newspaper site)
+        5. YouTube/Vimeo (to show video translator) 
+        6. MIDCAT
+        7. A relevant library database (something with and something without full-text PDFs can be helpful to point out the difference to students)
+    4. Important points to make
+        1. Metadata - it is only as good as the database, so check it
+        2. Set up an example with something wrong (e.g. author name or title in all caps)
+    3. Organizing your stuff in Zotero
+        1. Notes - for your annotated bibliography?
+            1. You can have as many notes as you want for an item
+            2. They are searchable
+            3. Can also use the "extras" field in bibliographic metadata for short notes/categorizations
+        2. Tags & relations
+            1. Can use tags however you want
+            2. Some may be automatically downloaded from databases/MIDCAT
+        3. Organize it into folders
+            1. Folders are not moving items
+            2. They can be in multiple folders
+            3. Can have subfolders 
+    4. Creating from scratch
+        1. Use the green plus sign
+        2. Can make records for anything you want (e.g. rocks, specimens, whatever)
+4. Getting stuff out of zotero
 Have open Word -> different icons
 Citation styles
 Drag & drop
@@ -54,14 +59,14 @@ Exporting
 Inline citations
 Bibliography
 Changing styles on the fly
-Zotero Extras
+5. Zotero Extras
 Syncing your library (300 mb limit)
 Groups
 How to back up (export RDF file)
 Also works with import (i.e. from Endnote)
 Using the “search within Middlebury”
 go/zoterosearch
-Wrap up
+6. Wrap up
 Zotero LibGuide
 Zotero Documentation/Forums
 go/ryan
