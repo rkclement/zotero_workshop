@@ -1,4 +1,4 @@
-# 2017 Fall Zotero Workshop
+# Zotero Workshop Outline
   
 1. Introduction
     1. Who am I, what are we talking about
