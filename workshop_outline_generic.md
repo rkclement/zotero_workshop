@@ -51,22 +51,41 @@
     4. Creating from scratch
         1. Use the green plus sign
         2. Can make records for anything you want (e.g. rocks, specimens, whatever)
-4. Getting stuff out of zotero
-Have open Word -> different icons
-Citation styles
-Drag & drop
-Exporting
-Inline citations
-Bibliography
-Changing styles on the fly
+4. Getting stuff out of Zotero
+    1. Have MS Word open, with a blank document
+        1. Show different icons, where to find them in -- address the fact that different versions of Word will be slightly different
+        2. Citation styles - make sure to show how to switch while writing (using "Document Preferences")
+        3. Write some stuff, show a few "add citations," show how to "add a bibliography," then add citations to show they keep getting added to bibliography (effective to show how it keeps alphabetical order)
+    2. Drag & drop
+    3. Create bibliography from item - useful for putting citations into emails or into Google Docs 
+        1. Inline citations
+        2. Bibliography
 5. Zotero Extras
-Syncing your library (300 mb limit)
-Groups
-How to back up (export RDF file)
-Also works with import (i.e. from Endnote)
-Using the “search within Middlebury”
-go/zoterosearch
+    1. Syncing your library (300 mb limit)
+        1. Okay if you have few PDFs, or if you only have black-and-white text PDFs, easy to reach limit with high res color images or big documents (e.g. government reports) though
+        2. There are ways around the limit
+            1. Can keep PDFs separate from the citation information/notes
+            2. Can use a separate cloud storage space with WebDAV capability (e.g. Box)
+        3. Also, the storage is really very affordable for the amount they give you!
+    2. Groups
+        1. Group libraries can be Private, Public/invite-only, or Public/open
+        2. Only private libraries can share PDFs
+        3. Group libraries are separate from your personal libraries (i.e. you can have a personal library that "syncs" with a group library)
+        4. Useful for group projects, sharing bibliography on posters/presentations, creating community of practices libraries
+    3. How to back up
+        1. Export RDF file (not a true, full backup)
+        2. True Backup
+            1. Locate your Zotero data directory (see below)
+            2. Making sure Zotero is closed, copy the entire "zotero" directory (including all the subdirectories)
+            3. Put this copy in a safe storage spot that is not your laptop
+                1. Good choices include your Google Drive, OneDrive, or an external hard drive
+                2. For even more redundancy, put a copy in two (or even three) of the above locations (at least one "off site," e.g. cloud storage) - make sure to update them all every time you make a new backup
+            4. **Your back up is only as good as your back up schedule**. If you do not have a program to automate your back ups (e.g. Time Machine on Macs), make sure you regularly do your back ups to ensure you always have up-to-date data. **Put a repeating event on your calendar to remind yourself!**
+    4. Can export/import with other citation management programs using RIS (i.e. from Endnote)
+    5. Using the “search within Middlebury”
+        1. [go/zoterosearch/](http://go.middlebury.edu/zoterosearch)
 6. Wrap up
-Zotero LibGuide
-Zotero Documentation/Forums
-go/ryan
+    1. [Zotero LibGuide](http://go.middlebury.edu/zotero)
+    2. Zotero Documentation/Forums (on the [Zotero website](https://www.zotero.org))
+    3. [go/ryan/](http://go.middlebury.edu/ryan)
+    4. All librarians at the Research Desk can help with Zotero questions!
