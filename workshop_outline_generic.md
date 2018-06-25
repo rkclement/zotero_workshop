@@ -56,6 +56,11 @@
         1. Show different icons, where to find them in -- address the fact that different versions of Word will be slightly different
         2. Citation styles - make sure to show how to switch while writing (using "Document Preferences")
         3. Write some stuff, show a few "add citations," show how to "add a bibliography," then add citations to show they keep getting added to bibliography (effective to show how it keeps alphabetical order)
+        4. **EXTREMELY IMPORTANT**
+            1. Explain that you cannot simply click on a citation and then edit it *within* Word 
+            2. You need to click on a citation, or bibliography entry, or footnote (or anything *created by Zotero*), and then click the icon in the menu bar to edit citation, etc.
+            3. If you click on a citation and edit it within Word, you will be breaking the link between the citation and the bibliography entry, and the link to the Zotero library
+            4. If you do this, the only solution is to unlink citations, copy/paste the entire thing into a new document, and then go back and add each citation again
     2. Drag & drop
     3. Create bibliography from item - useful for putting citations into emails or into Google Docs 
         1. Inline citations
