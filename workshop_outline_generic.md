@@ -1,3 +1,9 @@
+---
+title: "Zotero Workshop Outline"
+author: ryan clement
+date: 2018-06-26
+---
+
 # Zotero Workshop Outline
   
 1. Introduction
