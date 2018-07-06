@@ -1,8 +1,6 @@
 ---
 title: "Zotero Workshop Outline: French School"
-author:
-- name: ryan clement
-- affiliation: Middlebury College
+author: ryan clement
 date: 2018-07-26
 ---
 
