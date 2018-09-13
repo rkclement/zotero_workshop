@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="author" content="ryan clement" />
+  <meta name="dcterms.date" content="2018-06-26" />
+  <title>Zotero Workshop Outline</title>
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<header>
+<h1 class="title">Zotero Workshop Outline</h1>
+<p class="author">ryan clement</p>
+<p class="date">2018-06-26</p>
+</header>
+<h1 id="zotero-workshop-outline">Zotero Workshop Outline</h1>
+<ol type="1">
+<li>Introduction
+<ol type="1">
+<li>Who am I, what are we talking about</li>
+<li>Citation and Resource management tools - anyone already using them?
+<ol type="1">
+<li>Why we use Zotero over tools like EasyBib, RefWorks, EndNote<br />
+</li>
+</ol></li>
+<li>What is Zotero and why would you want to use it
+<ol type="1">
+<li>loose translation of the Albanian for “to master”</li>
+<li>App, browser connectors</li>
+<li>Word/LibreOffice plugins</li>
+</ol></li>
+</ol></li>
+<li>Installing Zotero
+<ol type="1">
+<li>Go to <a href="https://www.zotero.org/download/" class="uri">https://www.zotero.org/download/</a></li>
+<li>Install the Zotero app (e.g. “Zotero 5.0 for Mac”)</li>
+<li>Make sure you have the browser extension(s) that you need
+<ol type="1">
+<li>Problems with Safari extension - doesn’t work as well as Chrome or Firefox extensions - use those instead, if you can</li>
+<li>Currently no extension for IE/Edge or mobile broswers, but there is a <a href="https://www.zotero.org/downloadbookmarklet">bookmarklet</a> that will work for these, without all the features</li>
+</ol></li>
+<li>Create a free account
+<ol type="1">
+<li>Sign in to this account once you open Zotero</li>
+<li>We’ll do more with this later</li>
+</ol></li>
+</ol></li>
+<li>Getting stuff into Zotero
+<ol type="1">
+<li>Dump some PDFs in - have folder on desktop
+<ol type="1">
+<li>Show “retrieve metadata” (works automatically now)</li>
+<li>Talk about how this works (file needs to be OCR’d PDF, needs to be something that would be on Google Scholar)</li>
+</ol></li>
+<li>Show “create parent item”
+<ol type="1">
+<li>You can now manually enter information</li>
+<li>Show different item types - changes the fields available and what they are named</li>
+<li>Show that you don’t need to fill in <strong>all</strong> fields (i.e. only need ones that are necessary for citation)</li>
+<li>Show how to add multiple authors, change between author/editor/translator, and change beteween <code>last, first</code> and corporate author</li>
+</ol></li>
+<li>Have open to show browser extension:
+<ol type="1">
+<li>Google Scholar
+<ol type="1">
+<li>search “feminist ethnography”</li>
+</ol></li>
+<li>JSTOR (<strong>important</strong> to show that you need to agree to JSTOR TOS <strong>first</strong> before you can download PDFs automatically)
+<ol type="1">
+<li>search “intersectional” AND “praxis”, limit to Anthro</li>
+</ol></li>
+<li>Amazon (good for finding book metadata)
+<ol type="1">
+<li>http://a.co/d/9w8g9Q2</li>
+</ol></li>
+<li>NY Times (or other relevant newspaper site)</li>
+<li>YouTube/Vimeo (to show video translator)
+<ol type="1">
+<li>https://youtu.be/SDql5LhHBRc<br />
+</li>
+</ol></li>
+<li>MIDCAT
+<ol type="1">
+<li>http://mbury.iii.com/record=b4111126~S2</li>
+</ol></li>
+<li>A relevant library database (something with and something without full-text PDFs can be helpful to point out the difference to students)
+<ol type="1">
+<li>AntroSource - search “intersectional” AND “praxis”</li>
+</ol></li>
+</ol></li>
+<li>Important points to make
+<ol type="1">
+<li>Metadata - it is only as good as the database, so check it</li>
+<li>Set up an example with something wrong (e.g. author name or title in all caps)</li>
+</ol></li>
+<li>Organizing your stuff in Zotero
+<ol type="1">
+<li>Notes - for your annotated bibliography?
+<ol type="1">
+<li>You can have as many notes as you want for an item</li>
+<li>They are searchable</li>
+<li>Can also use the “extras” field in bibliographic metadata for short notes/categorizations</li>
+</ol></li>
+<li>Tags &amp; relations
+<ol type="1">
+<li>Can use tags however you want</li>
+<li>Some may be automatically downloaded from databases/MIDCAT</li>
+</ol></li>
+<li>Organize it into folders
+<ol type="1">
+<li>Folders are not moving items</li>
+<li>They can be in multiple folders</li>
+<li>Can have subfolders</li>
+</ol></li>
+</ol></li>
+<li>Creating from scratch
+<ol type="1">
+<li>Use the green plus sign</li>
+<li>Can make records for anything you want (e.g. rocks, specimens, whatever)</li>
+</ol></li>
+</ol></li>
+<li>Getting stuff out of Zotero
+<ol type="1">
+<li>Have MS Word open, with a blank document
+<ol type="1">
+<li>Show different icons, where to find them in – address the fact that different versions of Word will be slightly different</li>
+<li>Citation styles - make sure to show how to switch while writing (using “Document Preferences”)</li>
+<li>Write some stuff, show a few “add citations,” show how to “add a bibliography,” then add citations to show they keep getting added to bibliography (effective to show how it keeps alphabetical order)</li>
+<li><strong>EXTREMELY IMPORTANT</strong>
+<ol type="1">
+<li>Explain that you cannot simply click on a citation and then edit it <em>within</em> Word</li>
+<li>You need to click on a citation, or bibliography entry, or footnote (or anything <em>created by Zotero</em>), and then click the icon in the menu bar to edit citation, etc.</li>
+<li>If you click on a citation and edit it within Word, you will be breaking the link between the citation and the bibliography entry, and the link to the Zotero library</li>
+<li>If you do this, the only solution is to unlink citations, copy/paste the entire thing into a new document, and then go back and add each citation again</li>
+</ol></li>
+</ol></li>
+<li>Drag &amp; drop</li>
+<li>Create bibliography from item - useful for putting citations into emails or into Google Docs
+<ol type="1">
+<li>Inline citations</li>
+<li>Bibliography</li>
+</ol></li>
+</ol></li>
+<li>Zotero Extras
+<ol type="1">
+<li>Syncing your library (300 mb limit)
+<ol type="1">
+<li>Okay if you have few PDFs, or if you only have black-and-white text PDFs, easy to reach limit with high res color images or big documents (e.g. government reports) though</li>
+<li>There are ways around the limit
+<ol type="1">
+<li>Can keep PDFs separate from the citation information/notes</li>
+<li>Can use a separate cloud storage space with WebDAV capability (e.g. Box)</li>
+</ol></li>
+<li>Also, the storage is really very affordable for the amount they give you!</li>
+</ol></li>
+<li>Groups
+<ol type="1">
+<li>Group libraries can be Private, Public/invite-only, or Public/open</li>
+<li>Only private libraries can share PDFs</li>
+<li>Group libraries are separate from your personal libraries (i.e. you can have a personal library that “syncs” with a group library)</li>
+<li>Useful for group projects, sharing bibliography on posters/presentations, creating community of practices libraries</li>
+</ol></li>
+<li>How to back up
+<ol type="1">
+<li>Export RDF file (not a true, full backup)</li>
+<li>True Backup
+<ol type="1">
+<li>Locate your Zotero data directory (see below)</li>
+<li>Making sure Zotero is closed, copy the entire “zotero” directory (including all the subdirectories)</li>
+<li>Put this copy in a safe storage spot that is not your laptop
+<ol type="1">
+<li>Good choices include your Google Drive, OneDrive, or an external hard drive</li>
+<li>For even more redundancy, put a copy in two (or even three) of the above locations (at least one “off site,” e.g. cloud storage) - make sure to update them all every time you make a new backup</li>
+</ol></li>
+<li><strong>Your back up is only as good as your back up schedule</strong>. If you do not have a program to automate your back ups (e.g. Time Machine on Macs), make sure you regularly do your back ups to ensure you always have up-to-date data. <strong>Put a repeating event on your calendar to remind yourself!</strong></li>
+</ol></li>
+</ol></li>
+<li>Can export/import with other citation management programs using RIS (i.e. from Endnote)</li>
+<li>Using the “search within Middlebury”
+<ol type="1">
+<li><a href="http://go.middlebury.edu/zoterosearch">go/zoterosearch/</a></li>
+</ol></li>
+</ol></li>
+<li>Wrap up
+<ol type="1">
+<li><a href="http://go.middlebury.edu/zotero">Zotero LibGuide</a></li>
+<li>Zotero Documentation/Forums (on the <a href="https://www.zotero.org">Zotero website</a>)</li>
+<li><a href="http://go.middlebury.edu/ryan">go/ryan/</a></li>
+<li>All librarians at the Research Desk can help with Zotero questions!</li>
+</ol></li>
+</ol>
+</body>
+</html>
