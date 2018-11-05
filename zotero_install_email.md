@@ -11,8 +11,7 @@ Follow the instructions below for installing Zotero and related plug-ins. If you
 2. Things you should download and install:
   - Zotero 5.0 for Mac/Windows
   - Download browser connector(s) for whichever browser(s) you use
-    - Firefox, Safari, or Chrome -> whichever one you’re using will be highlighted, so open download page in different browsers to get other extensions (if you want)
-    - Use Firefox or Chrome, if possible, as the Safari extension doesn't offer the full functionality that those browsers do
+    - Firefox or Chrome -> whichever one you’re using will be highlighted, so open download page in different browsers to get other extensions (if you want)
 3. Finally, goto <https://www.zotero.org/user/register> and register for a free user account
   - Allows you to sync across devices, also allows you to create/participate in groups (very useful for group projects)
 
