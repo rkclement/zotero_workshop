@@ -1,7 +1,19 @@
 ---
 title: "Zotero Workshop Outline"
 author: ryan clement
-date: 2018-06-26
+date: 2022-07-06
+header-includes:
+  - \usepackage{enumitem}
+  - \setlistdepth{20}
+  - \renewlist{itemize}{itemize}{20}
+  - \renewlist{enumerate}{enumerate}{20}
+  - \setlist[itemize]{label=$\cdot$}
+  - \setlist[itemize,1]{label=\textbullet}
+  - \setlist[itemize,2]{label=--}
+  - \setlist[itemize,3]{label=*}
+output:
+  rmarkdown::pdf_document:
+      keep_tex: yes
 ---
 
 # Zotero Workshop Outline
